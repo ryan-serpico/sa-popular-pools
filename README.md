@@ -6,7 +6,7 @@ This repo contains all my code and data for the San Antonio Express-News' story 
 
 ## About the data
 
-The data was provided by the City of San Antonio's Parks and Recreation Department through an open records request sent through the city's [records request portal](https://www.sa.gov/Directory/Departments/CE/Open-Records-Request) on January 27, 2023. The department returned the data to me on February 15, 2023.
+The data was provided by the City of San Antonio's Parks and Recreation Department through an open records request sent through the city's [records request portal](https://www.sa.gov/Directory/Departments/CE/Open-Records-Request) on January 27, 2023. The department returned the data to me on February 15, 2023. You can look up my request using `ORR No: W498678-012723`.
 
 The data returned to me included pool visitation numbers broken down by age and pool for fiscal years 2018 through 2022 for both outdoor and indoor pools.
 
